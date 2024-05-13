@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:13-5-2024
 ## Register Number:212221040174
-## Name:V.Natchathira Rajan
+## Name:Vaanmugil vs
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
